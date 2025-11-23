@@ -1,0 +1,14 @@
+[project]
+name = "mxmh"
+version = "0.1.0"
+description = "Music and Mental Health Analysis"
+requires-python = ">=3.8"
+dependencies = [
+    "pandas",
+    "scipy",
+    "scikit-learn",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.7.5",
+    "seaborn>=0.13.2",
+    "lightfm-next>=1.19.0",
+]

@@ -1,2 +1,2 @@
-## MXMH dataset for recommendation system 
+## Recommendation System for Ecommerce Implicit Data
 - 2025-2 ml team project

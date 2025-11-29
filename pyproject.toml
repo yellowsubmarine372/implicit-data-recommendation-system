@@ -11,4 +11,10 @@ dependencies = [
     "matplotlib>=3.7.5",
     "seaborn>=0.13.2",
     "lightfm-next>=1.19.0",
+    "optuna>=4.5.0",
+    "dask>=2023.5.0",
+    "pyarrow>=17.0.0",
+    "kagglehub>=0.2.9",
+    "plotly>=6.5.0",
+    "implicit>=0.7.2",
 ]
